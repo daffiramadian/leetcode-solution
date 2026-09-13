@@ -1,6 +1,6 @@
 # 🧩 LeetCode Solutions
 
-Repositori ini berisi kumpulan solusi problem LeetCode yang saya kerjakan untuk latihan *Data Structures & Algorithms* (DSA) dan persiapan *technical interview*.
+Repositori ini berisi kumpulan solusi problem LeetCode yang saya kerjakan untuk latihan *Data Structures & Algorithms*.
 
 ## 🛠️ Stack & Automation
 * **Bahasa:** Java
